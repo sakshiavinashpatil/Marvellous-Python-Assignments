@@ -1,0 +1,6 @@
+This is a short line.
+This line has exactly six words in it.
+Another one.
+Python is a great language for beginners and professionals alike.
+AI is the future.
+I love learning new things every day.
